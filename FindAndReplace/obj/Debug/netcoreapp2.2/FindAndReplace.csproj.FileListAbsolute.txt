@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/findAndReplace.Solution/FindAndReplace/bin/Debug/netcoreapp2.2/FindAndReplace.deps.json
+/Users/Guest/Desktop/findAndReplace.Solution/FindAndReplace/bin/Debug/netcoreapp2.2/FindAndReplace.dll
+/Users/Guest/Desktop/findAndReplace.Solution/FindAndReplace/bin/Debug/netcoreapp2.2/FindAndReplace.pdb
+/Users/Guest/Desktop/findAndReplace.Solution/FindAndReplace/obj/Debug/netcoreapp2.2/FindAndReplace.csprojAssemblyReference.cache
+/Users/Guest/Desktop/findAndReplace.Solution/FindAndReplace/obj/Debug/netcoreapp2.2/FindAndReplace.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/findAndReplace.Solution/FindAndReplace/obj/Debug/netcoreapp2.2/FindAndReplace.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/findAndReplace.Solution/FindAndReplace/obj/Debug/netcoreapp2.2/FindAndReplace.AssemblyInfo.cs
+/Users/Guest/Desktop/findAndReplace.Solution/FindAndReplace/obj/Debug/netcoreapp2.2/FindAndReplace.dll
+/Users/Guest/Desktop/findAndReplace.Solution/FindAndReplace/obj/Debug/netcoreapp2.2/FindAndReplace.pdb
